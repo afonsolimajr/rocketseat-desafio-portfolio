@@ -124,6 +124,11 @@ img {
   width: 24px;
 }
 
+img,
+i {
+  margin: 0 8px;
+}
+
 .project-area {
 }
 
